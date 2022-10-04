@@ -1,5 +1,5 @@
 
-# calculator
+# Calculator
 
 This project is a copy of a real calculator and has the ability to work like a real calculator
 
